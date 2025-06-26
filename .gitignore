@@ -2,3 +2,5 @@ env
 nginx.conf
 Dockerfile
 contact.html
+techassist
+techassist.pub
