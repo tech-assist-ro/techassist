@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://tech-assist-ro.github.io/techassist/sitemap_index.xml
